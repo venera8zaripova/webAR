@@ -103,9 +103,9 @@ chair.html
 
     <model-viewer src="./assets/peppermint_candy.glb"
 
-                  ios-src="./assets/low-poly_falling_astronaut_-_3december.glb"
+                  ios-src="./assets/low-poly_falling_astronaut.glb"
 
-                  poster="./assets/low-poly_falling_astronaut_-_3December.usdz"
+                  poster="./assets/low-poly_falling_astronaut.usdz"
 
                   alt="A 3D model of an Astrounat"
 
