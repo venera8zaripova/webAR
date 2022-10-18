@@ -101,7 +101,7 @@ chair.html
 
     <!-- All you need to put beautiful, interactive 3D content on your site: -->
 
-    <model-viewer src="./assets/peppermint_candy.glb"
+    <model-viewer src="./assets/low-poly_falling_astronaut.glb"
 
                   ios-src="./assets/low-poly_falling_astronaut.glb"
 
