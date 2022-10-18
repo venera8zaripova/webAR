@@ -47,7 +47,7 @@ chair.html
 
   <div class="row">
 
-  <div id="card">
+  <div class="card">
 
     <!-- All you need to put beautiful, interactive 3D content on your site: -->
 
@@ -58,6 +58,56 @@ chair.html
                   poster="./assets/gladiador.png"
 
                   alt="A 3D model of a Chair"
+
+                  shadow-intensity="1"
+
+                  camera-controls
+
+                  auto-rotate ar>
+
+    </model-viewer>
+
+    <section class="attribution">
+
+      <span>
+
+        <h1>Chair</h1>
+
+        <span>By <a href="https://sketchfab.com/3d-models/peppermint-candy-6561f6c59b8f4c7b97b19f0ecd928930" target="_blank">SketchFab</a></span>
+
+        <br>
+
+        <span>Demo by<a href="https://www.antdevelopers.com" target="_blank">ANT Developers</a></span>
+
+      </span>
+
+      <a class="cc" href="https://creativecommons.org/licenses/by/2.0/" target="_blank">
+
+        <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg">
+
+        <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg">
+
+      </a>
+
+    </section>  
+
+  </div>
+
+  </div>
+
+  <div class="row">
+
+  <div class="card">
+
+    <!-- All you need to put beautiful, interactive 3D content on your site: -->
+
+    <model-viewer src="./assets/peppermint_candy.glb"
+
+                  ios-src="./assets/low-poly_falling_astronaut_-_3december.glb"
+
+                  poster="./assets/low-poly_falling_astronaut_-_3December.usdz"
+
+                  alt="A 3D model of an Astrounat"
 
                   shadow-intensity="1"
 
