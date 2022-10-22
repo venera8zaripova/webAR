@@ -101,11 +101,11 @@ chair.html
 
     <!-- All you need to put beautiful, interactive 3D content on your site: -->
 
-    <model-viewer src="./assets/low-poly_falling_astronaut.glb"
+    <model-viewer src="./assets/candy_shop.glb"
 
-                  ios-src="./assets/low-poly_falling_astronaut.usdz"
+                  ios-src="./assets/Candy_Shop.usdz"
 
-                  poster="./assets/low-poly_falling_astronaut.png"
+                  poster="./assets/candy_shop.png"
 
                   alt="A 3D model of an Astrounat"
 
@@ -121,9 +121,9 @@ chair.html
 
       <span>
 
-        <h1>Astronaut</h1>
+        <h1>Candy Store</h1>
 
-        <span>By <a href="https://sketchfab.com/3d-models/peppermint-candy-6561f6c59b8f4c7b97b19f0ecd928930" target="_blank">SketchFab</a></span>
+        <span>By <a href="https://sketchfab.com/3d-models/candy-shop-51411d40093346b8ac1b6d1224fd8b25" target="_blank">SketchFab</a></span>
 
         <br>
 
