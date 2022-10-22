@@ -57,7 +57,7 @@ chair.html
 
                   poster="./assets/gladiador.png"
 
-                  alt="A 3D model of a Chair"
+                  alt="A 3D model of a Candy"
 
                   shadow-intensity="1"
 
@@ -71,7 +71,7 @@ chair.html
 
       <span>
 
-        <h1>Chair</h1>
+        <h1>Candy</h1>
 
         <span>By <a href="https://sketchfab.com/3d-models/peppermint-candy-6561f6c59b8f4c7b97b19f0ecd928930" target="_blank">SketchFab</a></span>
 
@@ -121,7 +121,7 @@ chair.html
 
       <span>
 
-        <h1>Chair</h1>
+        <h1>Astronaut</h1>
 
         <span>By <a href="https://sketchfab.com/3d-models/peppermint-candy-6561f6c59b8f4c7b97b19f0ecd928930" target="_blank">SketchFab</a></span>
 
